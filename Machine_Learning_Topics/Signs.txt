@@ -1,0 +1,67 @@
+Way to print Greek alphabets in Jupyter Notebook
+
+$\Alpha$ Α
+$\Beta$ Β
+$\Gamma$ Γ
+$\Delta$ Δ
+$\Epsilon$ Ε
+$\Zeta$ Ζ
+$\Eta$ Η
+$\Theta$ Θ
+$\Iota$ Ι
+$\Kappa$ Κ
+$\Lambda$ Λ
+$\Xi$ Ξ
+$\Pi$ Π
+$\Rho$ Ρ
+$\Sigma$ Σ
+$\Tau$ Τ
+$\Upsilon$ Υ
+$\Phi$ Φ
+$\Chi$ Χ
+$\Psi$ Ψ
+$\Omega$ Ω
+
+
+$\alpha$ α
+$\beta$ β
+$\gamma$ γ
+$\delta$ δ
+$\zeta$ ζ
+$\eta$ η
+$\theta$ θ
+$\iota$ ι
+$\kappa$ κ
+$\lambda$ λ
+$\mu$ μ
+$\nu$ ν
+$\xi$ ξ
+$\pi$ π
+$\rho$ ρ
+$\varsigma$ ς
+$\sigma$ σ
+$\tau$ τ
+$\upsilon$ υ
+$\varphi$ φ
+$\chi$ χ
+$\psi$ ψ
+$\omega$ ω
+$\vartheta$ ϑ
+$\phi$ ϕ
+$\varpi$ ϖ
+$\Stigma$ Ϛ
+$\Digamma$ Ϝ
+$\digamma$ ϝ
+$\Koppa$ Ϟ
+$\Sampi$ Ϡ
+$\varkappa$ ϰ
+$\varrho$ ϱ
+$\textTheta$ ϴ
+$\epsilon$ ϵ
+
+
+
+Superscript and Subscript
+
+Superscript = $x^{2}$
+Subscript = $x_{2}$
